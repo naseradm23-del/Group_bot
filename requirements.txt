@@ -1,2 +1,2 @@
-python-telegram-bot==20.5
-youtubesearchpython==1.6.6
+python-telegram-bot
+youtubesearchpython
